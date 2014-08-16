@@ -1,0 +1,1 @@
+pod 'AFNetworking+SingleBlock', '~> 0.0.1'
